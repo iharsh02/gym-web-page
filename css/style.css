@@ -83,8 +83,9 @@ body {
 }
 
 .container {
-    border: 2px solid white;
-    margin: 106px 80px;
+    /* float: right; */
+    border: 1px solid white;
+    margin: 160px 30px;
     padding: 75px;
     width: 33%;
     border-radius: 28px;
